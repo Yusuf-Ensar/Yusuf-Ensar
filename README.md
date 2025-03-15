@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yusuf-Ensar
+- 👋 Hi, I’m @Yusuf Ensar Baştuğ
 - 🌱 I’m currently learning object orianted programming with c++
 - 🐝 I want to be able to make games and apps one day
 - 📫 You can reach me via e-mail: yusufensar0247@gmail.com
